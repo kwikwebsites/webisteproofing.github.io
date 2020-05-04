@@ -1,315 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigonideas.co.uk/index.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-master-plan-apt-1.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/portfolio-ii.html</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-apartments.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/portfolio.html</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-penthouse.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/untitled-2.html</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/location.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/okensi%20testimonials.jpg</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-development.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/skinenrich%20testimonials.jpg</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-gallery.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/ig-logo.svg</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/about-us.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/facebook.svg</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-2.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro202x123.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%202_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-3.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro276x167.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%203_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-4.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro225x137.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%204_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-5.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro267x162.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%205_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-6.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro315x191.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%206_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-7.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro248x150.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%207_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/apt-8.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/bigonideas_logo-identity_black.svg</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20apt%208_web-01.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/penthouse.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/deeply,%20madly,%20arty_logo.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%201_web2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01669x867.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01608x788.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/penthouse-level-2.html</loc>
-    <lastmod>2019-12-08</lastmod>
+    <loc>http://bigonideas.co.uk/images/untitled-4-01.png</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/arrow-angle-pointing-to-right_colour.svg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro256x155.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/digipay-logo.svg</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro274x166.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/going%20gardens%20-%20project%202017%206pp%20a4_page_2360x177.jpg</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro298x181.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/going%20gardens%20-%20project%202017%206pp%20a4_page_2327x161.jpg</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro278x169.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/going%20gardens%20-%20project%202017%206pp%20a4_page_2290x143.jpg</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/untitled-4-01209x297.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro190x115.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/wonder%20woman%20fitness_promo%20flyer-01211x300.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/untitled-4-01187x265.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro175x106.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro299x182.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro261x159.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro250x152.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro228x139.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/bigonideas_logo-identity_white.svg</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/assets/money-back-guarantee.eps</loc>
+    <lastmod>2020-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/wonder%20woman%20fitness_promo%20flyer-01.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/jki%20group_promo%20flyer-01.png</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
